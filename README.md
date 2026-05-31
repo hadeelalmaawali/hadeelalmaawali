@@ -8,3 +8,7 @@
 - Projects in Java
 - Building my GitHub profile 🚀
 
+## Skills
+- Java ☕
+- Git & GitHub 🐙
+- Data Structures & Algorithms
